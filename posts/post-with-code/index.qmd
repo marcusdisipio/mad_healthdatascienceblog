@@ -10,4 +10,7 @@ This is a post with executable code.
 
 ```{r}
 log(35)
++ 
+log(35)
+
 ```
