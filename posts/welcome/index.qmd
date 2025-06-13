@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Marcus A Di Sipio"
 date: "2025-06-10"
 categories: [news]
 ---
